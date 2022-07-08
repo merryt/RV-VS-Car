@@ -115,7 +115,7 @@
 
 <style>
   .hero {
-    background: url("hero.jpg") no-repeat center center fixed;
+    background: url("/hero.jpg") no-repeat center center fixed;
     min-height: 200px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
